@@ -84,7 +84,7 @@ PS: 想探讨TensorFlow技术的可以加"TensorFlow技术交流群"：495115006
   - [综述](SOURCE/tutorials/overview.md) 翻译：（[@PFZheng](https://github.com/PFZheng)）√ 校对： ([@ericxk](https://github.com/ericxk)) √
   - [MNIST机器学习入门](SOURCE/tutorials/mnist_beginners.md) 翻译：([@Tony Jin](https://github.com/linbojin))√ 校对： ([@ericxk](https://github.com/ericxk))
   - [深入MNIST](SOURCE/tutorials/mnist_pros.md) 翻译：([@chenweican](https://github.com/chenweican))√  校对： ([@HongyangWang](https://github.com/WangHong-yang)) √
-  - [TensorFlow运作方式入门](SOURCE/tutorials/mnist_tf.md) 翻译：([@bingjin](https://github.com/bingjin))√  校对： ([@LichAmnesia](https://github.com/LichAmnesia))
+  - [TensorFlow运作方式入门](SOURCE/tutorials/mnist_tf.md) 翻译：([@bingjin](https://github.com/bingjin))√  校对： ([@LichAmnesia](https://github.com/LichAmnesia)) √
   - [卷积神经网络](SOURCE/tutorials/deep_cnn.md) 翻译： ([@oskycar](https://github.com/oskycar))√  校对： ([@zhyhooo](https://github.com/zhyhooo))
   - [Vector Representations of Words](SOURCE/tutorials/word2vec.md)翻译：（[@xyang40](https://github.com/xyang40)）
   - [Recurrent Neural Networks](SOURCE/tutorials/recurrent.md) 翻译：([@Warln](https://github.com/Warln))√  校对： ([@HongyangWang](https://github.com/WangHong-yang))
@@ -109,12 +109,19 @@ PS: 想探讨TensorFlow技术的可以加"TensorFlow技术交流群"：495115006
   - [FAQ](SOURCE/resources/faq.md) 翻译：([@Terence Cooper](https://github.com/TerenceCooper))√
   - [术语表](SOURCE/resources/glossary.md) 翻译： ([@leege100](https://github.com/leege100))√
   - [Tensor排名、形状和类型](SOURCE/resources/dims_types.md) 翻译：([@nb312](https://github.com/nb312))√
-
+- 其他
+  - [常见问题汇总](SOURCE/faq.md)
 
 ## 进度记录
 
 - 2015-11-10, 谷歌发布全新人工智能系统TensorFlow并宣布开源, 极客学院Wiki启动协同翻译，创建 GitHub 仓库，制定协同规范 
 - 2015-11-18, 所有章节认领完毕，翻译完成18章，校对认领7章，Star数361，fork数100，协同翻译QQ群及技术交流群的TF爱好者将近300人，GitHub搜索TensorFlow排名第二
+
+## TensorFlow相关文章资源
+
+- [Google官方Blog宣布TensorFlow开源](https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html)
+- [TensorFlow WhitePaper(PDF下载)](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+
 
 ## 感谢支持
 
